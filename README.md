@@ -1,5 +1,6 @@
 # Hi, I'm Mansoor
-I build interactive projects that combine logic, gameplay, and user experience.
+
+I build practical software projects across web development, AI, and interactive systems, with a focus on clean design, logic, and usability.
 
 ## Featured Work
 

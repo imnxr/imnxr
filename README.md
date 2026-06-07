@@ -1,30 +1,50 @@
-# Mansoor Ur Rehmanr
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=900&lines=Code+with+logic.+Design+with+purpose.+Build+with+curiosity.;Python%2C+web+apps%2C+AI%2C+and+interactive+systems.;Turning+ideas+into+polished%2C+working+projects." alt="Typing SVG" />
+</div>
 
-I build practical software projects across web development, AI, and interactive systems, with a focus on clean design, logic, and usability.
+<h1 align="center">Mansoor Ur Rehman</h1>
 
-## Featured Work
+<p align="center">
+  Developer focused on practical software, clean interfaces, and logic-driven systems.
+</p>
 
-### Connect Four AI
-A polished Python and Pygame implementation of Connect Four with Minimax, alpha-beta pruning, and multiple difficulty levels.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mmansoorurrehman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mmansoor-ur-rehman.itch.io/zig-zag-doo-obstacles">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io" />
+  </a>
+  <a href="mailto:mansoorshakeel196@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### Hangman Game
-A 100-level browser game built with HTML, CSS, and JavaScript, designed with hints, progression, and a cleaner gameplay experience.
+## Selected Work
 
-### Pakistan Railways UX Redesign
-A UX case study and redesign of the RABTA e-ticketing experience using heuristic evaluation, interface analysis, and Figma prototypes.
+- [**Connect Four AI**](https://github.com/imnxr/connect-four-ai-minimax) - Python and Pygame game with Minimax, alpha-beta pruning, and multiple difficulty levels.
+- [**Hangman Game**](https://github.com/imnxr/hangman-game) - 100-level browser game built with HTML, CSS, and JavaScript, focused on progression and polished gameplay.
+- [**Pakistan Railways UX Redesign**](https://github.com/imnxr/pakistan-railways-ux-redesign) - UX case study and redesign of the RABTA e-ticketing flow using heuristic evaluation and Figma.
+- [**Hostel Management System**](https://github.com/imnxr/hostel-management-system) - C++ console project demonstrating OOP, templates, inheritance, polymorphism, and file handling.
 
-### Hostel Management System
-A C++ console application focused on object-oriented programming concepts including inheritance, polymorphism, templates, and file handling.
+## Toolbox
 
-## Tech I Work With
-`Python` `HTML` `CSS` `JavaScript` `React` `Node.js` `Java` `C++` `C#` `SQL` `MySQL` `MongoDB` `Figma`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,java,cpp,cs,mysql,mongodb,figma" alt="Tech stack icons" />
+</p>
 
-## Around Here
-- Building logic-heavy games and AI-based gameplay systems
-- Designing user-focused interfaces and smoother product flows
-- Learning by turning coursework and ideas into complete projects
+Also comfortable with `SQL`, practical UI/UX workflows, and building coursework into finished portfolio pieces.
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/mmansoorurrehman)
-- [itch.io](https://mmansoor-ur-rehman.itch.io/zig-zag-doo-obstacles)
-- [Email](mailto:mansoorshakeel196@gmail.com)
+## Current Focus
+
+- Building game AI and logic-driven software projects
+- Creating cleaner interfaces and more polished user experiences
+- Strengthening backend and database fundamentals through hands-on projects
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imnxr/imnxr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imnxr/imnxr/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imnxr/imnxr/output/github-contribution-grid-snake.svg" />
+</picture>

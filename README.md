@@ -1,4 +1,4 @@
-# Hi, I'm Mansoor
+# Mansoor Ur Rehmanr
 
 I build practical software projects across web development, AI, and interactive systems, with a focus on clean design, logic, and usability.
 
